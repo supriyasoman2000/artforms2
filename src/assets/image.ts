@@ -1,0 +1,83 @@
+export const image= [
+    {
+        
+        name:"duffumuttu",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Duffmuttu_IUHSS_Parappur_01.jpg/330px-Duffmuttu_IUHSS_Parappur_01.jpg"
+    },
+    {
+        name:"margamkali",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Knanaya_Margam_Kali.jpg/330px-Knanaya_Margam_Kali.jpg"
+    },
+    {
+        name:"oppana",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oppana_at_Kerala_school_kalolsavam_2019_3.jpg/489px-Oppana_at_Kerala_school_kalolsavam_2019_3.jpg"
+    },
+    {
+        name:"kalamezhuth",
+        img:"https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2021/01/07163635/Kalamezhutha-1024x576.png"
+    },
+    {
+        name:"madhubani painting",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Madhubani_Mahavidyas.jpg/311px-Madhubani_Mahavidyas.jpg"
+    },
+    {
+        name:"warli painting",
+        img:"https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc1MjY4OTc0OTQ5Mzc3NDA2/art-forms-of-india-that-have-survived-generations.webp"
+    },
+    {
+        name:"nangiarkoothu",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nangiar_Koothu_IMG_1133.jpg/330px-Nangiar_Koothu_IMG_1133.jpg"
+    },
+    {
+        name:"tholpavakoothu",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tholpavakoothu_Image.jpg/315px-Tholpavakoothu_Image.jpg"
+    },
+    {
+        name:"garudan thookam",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Garudan_Parava.jpg/480px-Garudan_Parava.jpg"
+    },
+    {
+        name:"mudiyettu",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mudiyettu_at_Kezhoor_kavu_02-02-2013_2-04-33.JPG/480px-Mudiyettu_at_Kezhoor_kavu_02-02-2013_2-04-33.JPG"
+    },
+    {
+        name:"kummattikali",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kummattikali.JPG/480px-Kummattikali.JPG"
+    },
+    {
+        name:"kuthiyottam",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kuthiyottam.jpg/480px-Kuthiyottam.jpg"
+    },
+    {
+        name:"charadupinnikali",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Charadu_pinni_kali_1.jpg/480px-Charadu_pinni_kali_1.jpg"
+    },
+    {
+        name:"yakshagana",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yakshaganads.jpg/480px-Yakshaganads.jpg"
+    },
+    {
+        name:"onapottan",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Onapottan_-_A_Traditional_Kerala_Art_Form.jpg/338px-Onapottan_-_A_Traditional_Kerala_Art_Form.jpg"
+    },
+    {
+        name:"tanjore painting",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Natarajar_Tanjore_painting.jpg/330px-Natarajar_Tanjore_painting.jpg"
+    },
+    {
+        name:"bhil painting",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bhil_woman_circa_1914.jpg/225px-Bhil_woman_circa_1914.jpg"
+    },
+    {
+        name:"kadhaprasangam",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/V_SAMBASIVAN_ON_STAGE.jpg/480px-V_SAMBASIVAN_ON_STAGE.jpg"
+    },
+    {
+        name:"parichamuttukali",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Advika_VAST_2020_Parichamuttukali_06.jpg/480px-Advika_VAST_2020_Parichamuttukali_06.jpg"
+    },
+    {
+        name:"chavittunadakam",
+        img:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chavittu_NadakamIMG_1182.jpg/480px-Chavittu_NadakamIMG_1182.jpg"
+    }
+]

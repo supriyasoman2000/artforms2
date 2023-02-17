@@ -1,0 +1,20 @@
+
+<div class="container p-5">
+    <h1  class="text-center text-bg-info p-2">
+        More Artforms
+        </h1>
+
+    <div class="row">
+        <div class="col" *ngFor="let i of gallery">
+            <div class="card" style="width:15rem;">
+                <img src={{i.img}} width="250" height="200">
+                <div class="card-body">
+                    <h5 class="card-title">{{i.name}}</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+
+    </div>
